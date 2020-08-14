@@ -1,7 +1,6 @@
 # IPL-Win-Prediction
 
-Does the team with the home ground has an advantage? Or is that that a high target creates a psychological impact on the chasing team? Or is it run-rate that only matters for winning an IPL Match
-IPL Win Prediction is a machine learning model deployed on flask to predict the winning team by using the bagging classifier. 
+Does the team with the home ground has an advantage? Or is that that a high target creates a psychological impact on the chasing team? Or is it run-rate that only matters for winning an IPL Match. IPL Win Prediction is a machine learning model deployed on flask to predict the winning team by using the bagging classifier. 
 
 
 ### BASELINE ROC CURVES
